@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CalculatorApp/CalculatorApp.csproj" />
+  <Project Path="CalculatorTester/CalculatorTester.csproj" />
+  <Project Path="Lab5_Exercises/Lab5_Exercises.csproj" />
+  <Project Path="Lab5_Exercises.Tests/Lab5_Exercises.Tests.csproj" />
+  <Project Path="Lab5_ConsoleApp/Lab5_ConsoleApp.csproj" />
+</Solution>
